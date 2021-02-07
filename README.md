@@ -1,2 +1,2 @@
-# C2cProje
-C2cProje Uygulaması
+# Bitaman
+Bitaman Uygulaması
